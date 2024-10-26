@@ -1,0 +1,14 @@
+
+O
+java:S1948"2Make "componentDataMap" transient or serializable.(ÏßÍ8µ£Ô·¬2
+G	java:S106"+Replace this use of System.out by a logger.(¬÷Ã˜8¸£Ô·¬2
+W
+java:S1117!":Rename "bounds" which hides the field declared at line 18.(°Ø·Ø8¹£Ô·¬2
+w
+java:S6201$"UReplace this instanceof check and cast with 'instanceof JTextComponent textComponent'(ÔÃÅèùÿÿÿÿ8º£Ô·¬2
+h
+java:S6201("KReplace this instanceof check and cast with 'instanceof JComboBox comboBox'(”¥€Å8º£Ô·¬2
+h
+java:S6201+"KReplace this instanceof check and cast with 'instanceof JCheckBox checkBox'(¹Ëüâ8º£Ô·¬2
+n
+java:S6201/"LReplace this instanceof check and cast with 'instanceof Container container'(É­ıçşÿÿÿÿ8»£Ô·¬2
